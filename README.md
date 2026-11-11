@@ -21,8 +21,10 @@
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React<br>
-  LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Docker &nbsp;·&nbsp; n8n &nbsp;·&nbsp; Vercel
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · MongoDB · Docker · n8n · Git · GitHub · Vercel" src="assets/stack-light.svg" width="100%">
+  </picture>
 </p>
 
 <br>

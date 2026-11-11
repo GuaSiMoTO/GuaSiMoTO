@@ -23,7 +23,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · Claude Code · ChatGPT · Gemini · MongoDB · Docker · n8n · Git · GitHub · Warp · Vercel" src="assets/stack-light.svg" width="100%">
+    <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · Claude Code · ChatGPT · Gemini · MongoDB · SQL · Docker · n8n · Git · GitHub · Warp · Vercel" src="assets/stack-light.svg" width="100%">
   </picture>
 </p>
 

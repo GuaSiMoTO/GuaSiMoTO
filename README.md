@@ -1,11 +1,44 @@
-<div align="left">
-<h2>  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1eWZlMmlpNzR3b2s3b3JsaDR3Y2ppaWliZHlyMXNvcW0xOW94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" alt="Mano saludando" width="35" height="35">
-  ¡Hola! Soy Javier</h2 >
-</div>
+<br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Javier Barroso — Full-Stack Developer & AI Engineer" src="assets/header-light.svg" width="100%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuaSiMoTo/GuaSiMoTo/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuaSiMoTo/GuaSiMoTo/output/github-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/GuaSiMoTo/GuaSiMoTo/output/github-snake.svg">
-</picture>
+<br>
+
+<p align="center">
+  <a href="https://github.com/GuaSiMoTO/APP-MIRA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mira-dark.svg"><img alt="Mira" src="assets/card-mira-light.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/GuaSiMoTO/APP-pdf-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pdf-editor-dark.svg"><img alt="PDF Editor" src="assets/card-pdf-editor-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/GuaSiMoTO/Insight-Agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-insight-agent-dark.svg"><img alt="Insight Agent" src="assets/card-insight-agent-light.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/GuaSiMoTO/Lab-Building-RAG-Systems-public"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rag-dark.svg"><img alt="RAG Systems" src="assets/card-rag-light.svg" width="49%"></picture></a>
+</p>
+
+<br>
+
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React<br>
+  LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Docker &nbsp;·&nbsp; n8n &nbsp;·&nbsp; Vercel
+</p>
+
+<br>
+
+<h3 align="center">Labs</h3>
+
+<p align="center">
+  48 laboratorios de IA generativa, machine learning, deep learning, APIs y SQL.<br>
+  <a href="https://github.com/GuaSiMoTO?tab=repositories&q=public&type=source">Ver todos ›</a>
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuaSiMoTO/GuaSiMoTO/output/github-snake-dark.svg">
+    <img alt="Contribuciones" src="https://raw.githubusercontent.com/GuaSiMoTO/GuaSiMoTO/output/github-snake.svg" width="100%">
+  </picture>
+</p>

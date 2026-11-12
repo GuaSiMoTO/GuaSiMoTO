@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-<!-- CAMBIAR: sustituye las URLs de example.com por las de tu portfolio y tu LinkedIn (hay otras dos más abajo, en la sección Stack) -->
+<!-- CAMBIAR: sustituye las dos URLs de example.com por las de tu portfolio y tu LinkedIn -->
 <p align="center">
   <a href="https://example.com/portfolio">Portfolio ›</a>
   &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
@@ -27,15 +27,11 @@
 
 <h3 align="center">Stack</h3>
 
-<!-- CAMBIAR: URL de tu portfolio (mantén #skills al final para que abra en la sección Stack) -->
 <p align="center">
-  <a href="https://example.com/portfolio#skills"><picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stack-v5-dark.svg">
     <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · Claude Code · ChatGPT · Gemini · MongoDB · SQL · Docker · n8n · Git · GitHub · Warp · Vercel" src="assets/stack-v5-light.svg" width="100%">
-  </picture></a>
-</p>
-<p align="center">
-  <sub><a href="https://example.com/portfolio#skills">Arrastra para explorar en mi portfolio ›</a></sub>
+  </picture>
 </p>
 
 <br>

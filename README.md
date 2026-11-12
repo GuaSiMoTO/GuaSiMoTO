@@ -7,6 +7,13 @@
   </picture>
 </p>
 
+<!-- CAMBIAR: sustituye las dos URLs de example.com por las de tu portfolio y tu LinkedIn -->
+<p align="center">
+  <a href="https://example.com/portfolio">Portfolio ›</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://example.com/linkedin">LinkedIn ›</a>
+</p>
+
 <br>
 
 <p align="center">
@@ -22,8 +29,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · Claude Code · ChatGPT · Gemini · MongoDB · SQL · Docker · n8n · Git · GitHub · Warp · Vercel" src="assets/stack-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-v5-dark.svg">
+    <img alt="Python · FastAPI · Node.js · TypeScript · JavaScript · React · LangChain · Claude Code · ChatGPT · Gemini · MongoDB · SQL · Docker · n8n · Git · GitHub · Warp · Vercel" src="assets/stack-v5-light.svg" width="100%">
   </picture>
 </p>
 
